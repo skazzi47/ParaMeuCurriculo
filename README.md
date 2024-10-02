@@ -2,7 +2,7 @@
 Atividade desenvolvida em sala de aula.
 ---
 ### Atividade Escolhida: Jogo de Adivinhação de Números.
-Desenvlvido por: Pedro Augusto Queirós Rodrigues
+Desenvlvido por: Guilherme Mauricio De Oliveira Damasceno.
 Descrição: O código gera um número aleatório e o usuário deve a divinhar qual número foi gerado.
 
 ### O que foi utilizado:
