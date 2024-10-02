@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alunos\\Repositórios - GM\\ParaMeuCurriculo\\Atividade\\Atividade.csproj": {}
+    "C:\\Users\\Alunos\\Repositórios - PA\\ParaMeuCurrículo\\ParaMeuCurriculo\\Atividade\\Atividade.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alunos\\Repositórios - GM\\ParaMeuCurriculo\\Atividade\\Atividade.csproj": {
+    "C:\\Users\\Alunos\\Repositórios - PA\\ParaMeuCurrículo\\ParaMeuCurriculo\\Atividade\\Atividade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alunos\\Repositórios - GM\\ParaMeuCurriculo\\Atividade\\Atividade.csproj",
+        "projectUniqueName": "C:\\Users\\Alunos\\Repositórios - PA\\ParaMeuCurrículo\\ParaMeuCurriculo\\Atividade\\Atividade.csproj",
         "projectName": "Atividade",
-        "projectPath": "C:\\Users\\Alunos\\Repositórios - GM\\ParaMeuCurriculo\\Atividade\\Atividade.csproj",
+        "projectPath": "C:\\Users\\Alunos\\Repositórios - PA\\ParaMeuCurrículo\\ParaMeuCurriculo\\Atividade\\Atividade.csproj",
         "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alunos\\Repositórios - GM\\ParaMeuCurriculo\\Atividade\\obj\\",
+        "outputPath": "C:\\Users\\Alunos\\Repositórios - PA\\ParaMeuCurrículo\\ParaMeuCurriculo\\Atividade\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"
