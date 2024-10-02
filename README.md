@@ -17,7 +17,7 @@ Biblioteca ``System``, Comando ``new Random`` e ``random.next``, Estruturas de C
 - [x] Fim do Programa.
 
 ### Backlog:
--[] Realizar um jogo onde o usuário deve adivinhar o número gerado pelo programa.
+- [] Realizar um jogo onde o usuário deve adivinhar o número gerado pelo programa.
 
 ### Conclusão:
 Esse programa faz a função de gerar um número aleatório para que o usuário possa o adivinhar, uma forma de entretenimento e aprendizado integrados.
